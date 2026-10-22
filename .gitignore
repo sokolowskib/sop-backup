@@ -1,0 +1,13 @@
+# build
+*.o
+sop-backup
+
+# test.sh working dirs
+source/
+backup/
+
+# editors
+.idea/
+.vscode/
+*.swp
+temp/
